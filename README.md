@@ -1,11 +1,9 @@
 # Getting Started with this app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 ## Steps to run this project:
-### `git clone https://github.com/ankit246/Health-fitness.git`
+### `https://github.com/dankitchauhan/Health-fitness.git`
 ### `cd Health-fitness`
 ### `npm install`
 ### `npm start`
